@@ -9,8 +9,10 @@
 ## Slides
 
 - [Welcome to PyData Bristol][slides:mpn] by Miquel Perelló Nieto
+- [Welcome to OVO][slides:gc] by George Carter
 
-[slides:mpn]: https://github.com/pydatabristol/meetups/blob/master/meetup_2018_03_15/pydata_bristol_01_intro_miquel_perello_nieto.pdf
+[slides:mpn]: ./pydata_bristol_01_intro_miquel_perello_nieto.pdf
+[slides:gc]: ./pydata_bristol_03_ovo_george_carter.pdf
 
 ## Meetup event page
 
