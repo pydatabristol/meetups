@@ -1,12 +1,13 @@
-# meetups
+# PyData Bristol Meetups
 
-[PyData Bristol meetup][meetup] material
+Links:
+- [PyData Bristol on Meetup.com][meetup]
+- [@PyDataBristol on Twitter][twitter]
+- [PyData Bristol YouTube Channel][youtube]
 
+## Past meetups
 
-[meetup]: https://www.meetup.com/PyData-Bristol/
-
-## Index
-
+You can find schedules, slides and recordings of previous events below.
 - [1st PyData Bristol meetup 15 March 2018][meetup:1]
 
 [meetup:1]: ./meetup_2018_03_15
@@ -33,3 +34,5 @@ Twitter: [@PyDataBristol][twitter]
 
 [twitter]: https://twitter.com/PyDataBristol
 [coc]: http://pydata.org/code-of-conduct.html
+[meetup]: https://www.meetup.com/PyData-Bristol/
+[youtube]: https://www.youtube.com/channel/UCLx854lMH98BpyVfi-bnQkw
