@@ -1,6 +1,9 @@
 # meetups
 
-PyData Bristol meetup material
+[PyData Bristol meetup][meetup] material
+
+
+[meetup]: https://www.meetup.com/PyData-Bristol/
 
 ## Index
 
