@@ -10,7 +10,7 @@
 
 - [Welcome to PyData Bristol][slides:mpn] by Miquel Perelló Nieto ([watch on YouTube][video:mpn])
 - [A brief introduction to data science, machine learning and the PyData
-  ecosystem][slides:js] by John Sandall
+  ecosystem][slides:js] by John Sandall ([watch on YouTube][video:js])
 - [Welcome to OVO][slides:gc] by George Carter
 - [Understanding natural language with word vectors][slides:mb] by Marco Bonzanini
 - [Experiences with XGBoost and the financial markets][slides:as] by Adam Smith
@@ -21,6 +21,7 @@
 [slides:mb]: ./pydata_bristol_04_wordembeddings_marco_bonzanini.pdf
 [slides:as]: ./pydata_bristol_05_xgboost_adam_smith.pdf
 [video:mpn]: https://youtu.be/wgZB7jyilpE
+[video:js]: https://youtu.be/qBvO3fyl1lk
 
 ## Meetup event page
 
