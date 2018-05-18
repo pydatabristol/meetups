@@ -9,10 +9,10 @@
 ## Slides and recordings
 
 - [Welcome to PyData Bristol][slides:mpn] by Miquel Perelló Nieto
-- [GDPR for data people][slides:eb] by Ed Boal **(To be added)**
+- [GDPR for data people][slides:eb] by Ed Boal
 - [Kubernetes for Data Scientists][slides:lt] by Louis Taylor **(To be added)**
 - [Why run Python in SQL Server?][slides:jy] by James Yarrow **(To be added)**
-- [Voronoi Diagrams][slides:gt] by Graeme Taylor **(To be added)**
+- [Voronoi Diagrams][slides:gt] by Graeme Taylor
 
 [slides:mpn]: ./pydata_bristol_01_intro_miquel_perello_nieto.pdf
 [slides:eb]: ./pydata_bristol_02_gdpr_dp_ed_boal.pdf
