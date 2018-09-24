@@ -12,7 +12,7 @@
 - [Controlling Aircraft with Deep Reinforcement Learning][slides:gr] by Gordon
   Rennie **(To be added)**
 - A report from PyCon UK by Coen de Groot
-- [Hand pose classification in VR using Tensorflow][slides:mc] by Mike O'Connor **(To be added)**
+- [Hand pose classification in VR using Tensorflow][slides:mc] by Mike O'Connor
 - [Predicting cryptocurrency prices][slides:mh] by Matt Hamilton **(To be added)**
     - Additional content: [screencast in YouTbue](https://www.youtube.com/watch?v=HR_Igs0AyXc)
 
