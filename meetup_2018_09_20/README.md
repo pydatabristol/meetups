@@ -10,7 +10,7 @@
 
 - [Welcome to PyData Bristol][slides:mpn] by Miquel Perelló Nieto
 - [Controlling Aircraft with Deep Reinforcement Learning][slides:gr] by Gordon
-  Rennie **(To be added)**
+  Rennie
 - A report from PyCon UK by Coen de Groot
 - [Hand pose classification in VR using Tensorflow][slides:mc] by Mike O'Connor
 - [Predicting cryptocurrency prices][slides:mh] by Matt Hamilton **(To be added)**
