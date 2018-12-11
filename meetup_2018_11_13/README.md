@@ -28,6 +28,6 @@ https://www.meetup.com/PyData-Bristol/events/255667468/
 
 <p align="center">
   <a href="https://www.numfocus.org/"><img alt='NumFocus logo' src="./images/logos/numfocus_logo.png" hspace="20" height="100"/></a>
-  <a href="https://www.numfocus.org/"><img alt='IBM logo' src="./images/logos/IBM.jpg" hspace="20" height="100"/></a>
+  <a href="https://www-05.ibm.com/uk/locations/bristol.html"><img alt='IBM logo' src="./images/logos/IBM.jpg" hspace="20" height="100"/></a>
   <a href="https://www.ovoenergy.com/careers/vacancies"><img alt='ovo energy logo' src="./images/logos/ovo_energy_logo.jpg" hspace="20" height="100"/></a>
 </p>
