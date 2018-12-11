@@ -1,4 +1,4 @@
-# PyData Bristol - 5th Meetup
+# PyData Bristol - Christmas joint event with DBBUG
 
 ## Schedule
 
