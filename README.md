@@ -12,6 +12,7 @@ You can find schedules, slides and recordings of previous events below.
 - [2nd PyData Bristol meetup 17 May 2018](./meetup_2018_05_17)
 - [3rd PyData Bristol meetup 19 Jul 2018](./meetup_2018_07_19)
 - [4th PyData Bristol meetup 20 Sep 2018](./meetup_2018_09_20)
+- [5th PyData Bristol meetup 13 Nov 2018](./meetup_2018_11_13)
 
 ## What we are about
 
