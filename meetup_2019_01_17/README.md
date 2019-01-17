@@ -11,10 +11,10 @@
 - [Welcome to PyData Bristol][slides:1] by Miquel Perelló Nieto, Frank Kelly
   and John Sandall
 - [Predicting my baby son's mood with deep learning][slides:2] by Daniel
-  Howarth <span style="color:red">(to be added)</span>
-- [Dash apps in docker running on AWS][slides:3] by Tim Vivian-Griffiths <span style="color:red">(to be added)</span>
-- [Tribalism and political misinformation on Twitter][slides:4] by Samantha North <span style="color:red">(to be added)</span>
-- [Efficient Brute-force Correlation][slides:5] by Sam Drew <span style="color:red">(to be added)</span>
+  Howarth **(to be added)**
+- [Dash apps in docker running on AWS][slides:3] by Tim Vivian-Griffiths **(to be added)**
+- [Tribalism and political misinformation on Twitter][slides:4] by Samantha North **(to be added)**
+- [Efficient Brute-force Correlation][slides:5] by Sam Drew **(to be added)**
 
 [slides:1]: ./pydata_bristol_1.pdf
 [slides:2]:  ./pydata_bristol_2.pdf
