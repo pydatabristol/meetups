@@ -12,9 +12,8 @@
   and John Sandall
 - [Predicting my baby son's mood with deep learning][slides:2] by Daniel
   Howarth
-- [Dash apps in docker running on AWS][slides:3] by Tim Vivian-Griffiths (to be added)
-- [Tribalism and political misinformation on Twitter][slides:4] by Samantha (to be added)
-  North
+- [Dash apps in docker running on AWS][slides:3] by Tim Vivian-Griffiths **(to be added)**
+- [Tribalism and political misinformation on Twitter][slides:4] by Samantha North **(to be added)**
 - [Efficient Brute-force Correlation][slides:5] by Sam Drew
 
 [slides:1]: ./pydata_bristol_1.pdf
