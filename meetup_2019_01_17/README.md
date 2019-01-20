@@ -14,7 +14,7 @@
   Howarth
 - [Dash apps in docker running on AWS][slides:3] by Tim Vivian-Griffiths **(to be added)**
 - [Tribalism and political misinformation on Twitter][slides:4] by Samantha North **(to be added)**
-- [Efficient Brute-force Correlation][slides:5] by Sam Drew
+- [Replicating Google Correlate with Wikipedia Data][slides:5] by Sam Drew
 
 [slides:1]: ./pydata_bristol_1.pdf
 [slides:2]:  ./pydata_bristol_2.pdf
