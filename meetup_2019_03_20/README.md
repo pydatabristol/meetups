@@ -23,7 +23,7 @@
 
 ## Meetup event page
 
-https://www.meetup.com/PyData-Bristol/events/257214823/
+https://www.meetup.com/PyData-Bristol/events/259092029/
 
 ## Sponsors
 
