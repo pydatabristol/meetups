@@ -11,7 +11,7 @@
 - [Welcome to PyData Bristol][slides:1] by Miquel Perelló Nieto, Frank Kelly,
   John Sandall and David Greenwood
 - [Artificial intelligence as a 'Medium'][slides:2] by Avon Huxor
-- [The solar potential of Bristol city; a powerful combination of data science and GIS][slides:3] by Lenka Hašová **(to be added)**
+- [The solar potential of Bristol city; a powerful combination of data science and GIS][slides:3] by Lenka Hašová and Thomas Statham
 - [From parquet to model/data parallelism with Tensorflow][slides:4] by Florian Dejax **(to be added)**
 - [Backing out the future? A simple way of learning the distribution of ‘expected’ future stock prices][slides:5] by David Greenwood
 
