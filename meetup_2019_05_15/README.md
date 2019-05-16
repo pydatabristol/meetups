@@ -12,7 +12,7 @@
   John Sandall and David Greenwood
 - [Supervised Link Prediction][slides:2] by Alistair Rogers
     - [Additional slides' content](https://github.com/AlistairLR112/Supervised-Link-Prediction-ACLED)
-- [The solar potential of Bristol city; a powerful combination of data science and GIS][slides:3] **(to be added)** by Lenka Hašová and Thomas Statham
+- [Rmarkdown: Why it's great for Python folks][slides:3] **(to be added)** by Steph Locke
 - [MedSpace: Medical Image Analysis with Bayesian Deep Learning][slides:4] by Felix Laumann
 
 [slides:1]: ./pydata_bristol_1.pdf
