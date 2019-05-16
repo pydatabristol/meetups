@@ -16,6 +16,7 @@ You can find schedules, slides and recordings of previous events below.
 - [Christmas joint event PyData Bristol and DBBUG meetup 10 Dec 2018](./meetup_2018_12_10)
 - [6th PyData Bristol meetup 17 Jan 2019](./meetup_2019_01_17)
 - [7th PyData Bristol meetup 20 Mar 2019](./meetup_2019_03_20)
+- [8th PyData Bristol meetup 15 May 2019](./meetup_2019_05_15)
 
 ## What we are about
 
