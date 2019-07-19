@@ -11,7 +11,7 @@
 - [Welcome to PyData Bristol][slides:1] by Miquel Perelló Nieto, Frank Kelly,
   John Sandall and David Greenwood
 - [Deep Learning for Everyone with MAX][slides:2] **(to be added)**  by Margriet Groenendijk
-- [Anomaly detection - what works for me][slides:3] **(to be added)** by Rod Mupambirei
+- [Anomaly detection - what works for me][slides:3] by Rod Mupambirei
 - [A gentle introduction to Q-learning in Python][slides:4] **(to be added)**  by Malte Lichtenberg
 - [Manifold cities: What makes Bristol tick?][slides:5] by Edmund Barter
 
