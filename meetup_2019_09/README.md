@@ -14,7 +14,7 @@ John Sandall, David Greenwood, Bharat Kunwar
     - [GitHub code](https://github.com/DaveParr/snakes_and_lambdas)
 - [A Linux container from scratch in Python][slides:3] **(to be added)** by
   Louis Taylor
-- [Machine Learning on the Edge with the Jetson Nano][slides:4] **(to be added)** by Frank Kelly
+- [Machine Learning on the Edge with the Jetson Nano][slides:4] by Frank Kelly
 - [The Magic of Python Underscores][slides:5] by Alexandra Craciun
 
 [slides:1]: ./pydata_bristol_1.pdf
