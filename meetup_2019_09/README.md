@@ -10,7 +10,7 @@
 
 - [Welcome to PyData Bristol][slides:1] by Miquel Perelló Nieto, Frank Kelly,
 John Sandall, David Greenwood, Bharat Kunwar
-- [Snakes and Lambdas: Data-ops on AWS Micro-services][slides:2] **(to be added)** by Dave Parr
+- [Snakes and Lambdas: Data-ops on AWS Micro-services][slides:2] by Dave Parr
     - [GitHub code](https://github.com/DaveParr/snakes_and_lambdas)
 - [A Linux container from scratch in Python][slides:3] **(to be added)** by
   Louis Taylor
