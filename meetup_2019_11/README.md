@@ -13,9 +13,22 @@ John Sandall, David Greenwood, James C Yarrow, Lenka Hašová and Bharat Kunwar
 - [Python Frameworks for Interactive Scientific Visualisation in Virtual
   Reality][slides:2] **(to be added)** by Mike O'Connor
 - [Getting geospatial work done with the PyData Stack][slides:3] **(to be added)** by Sam Franklin
+    * [GitHub repository with Jupyter Notebook](https://github.com/samfranklin/pydata-lightening-talk)
 - [How To Predict An Election][slides:4] **(to be added)** by John Sandall
 - [Beyond Temperature Scaling: Obtaining well-calibrated multiclass
   probabilities with Dirichlet calibration][slides:5] by Miquel Perello Nieto
+    * [Web page with all information](https://dirichletcal.github.io/)
+    * [NeurIPS2019 paper]
+    * [NeurIPS2019 poster] 
+    * [NeurIPS2019 slides]
+    * [NeurIPS2019 video] 
+    * [NeurIPS2019 experiments code] 
+
+[NeurIPS2019 paper]:  <https://arxiv.org/abs/1910.12656>
+[NeurIPS2019 poster]: <https://dirichletcal.github.io/documents/neurips2019/poster.pdf>
+[NeurIPS2019 slides]: <https://dirichletcal.github.io/documents/neurips2019/slides.pdf>
+[NeurIPS2019 video]:  <https://dirichletcal.github.io/documents/neurips2019/video/>
+[NeurIPS2019 experiments code]:  <https://github.com/dirichletcal/experiments_neurips>
 
 [slides:1]: ./pydata_bristol_1.pdf
 [slides:2]:  ./pydata_bristol_2.pdf
