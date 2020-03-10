@@ -8,21 +8,22 @@ Links:
 ## Past meetups
 
 You can find schedules, slides and recordings of previous events below.
-- [1st PyData Bristol meetup 15 March 2018](./meetup_2018_03_15)
-- [2nd PyData Bristol meetup 17 May 2018](./meetup_2018_05_17)
-- [3rd PyData Bristol meetup 19 Jul 2018](./meetup_2018_07_19)
-- [4th PyData Bristol meetup 20 Sep 2018](./meetup_2018_09_20)
-- [5th PyData Bristol meetup 13 Nov 2018](./meetup_2018_11_13)
-- [Christmas joint event PyData Bristol and DBBUG meetup 10 Dec 2018](./meetup_2018_12_10)
-- [6th PyData Bristol meetup 17 Jan 2019](./meetup_2019_01_17)
-- [7th PyData Bristol meetup 20 Mar 2019](./meetup_2019_03_20)
-- [8th PyData Bristol meetup 15 May 2019](./meetup_2019_05_15)
-- [9th PyData Bristol meetup 15 May 2019](./meetup_2019_07_18)
-- [10th PyData Bristol meetup 26 Sep 2019](./meetup_2019_09)
-- [11th PyData Bristol meetup 28 Oct 2019](./meetup_2019_10)
-- [12th PyData Bristol meetup 21 Nov 2019](./meetup_2019_11)
-- [13th PyData Bristol meetup 19 Dec 2019](./meetup_2019_12)
-- [14th PyData Bristol meetup 23 Jan 2020](./meetup_2020_01)
+- [1st PyData Bristol meetup March 2018](./meetup_2018_03_15)
+- [2nd PyData Bristol meetup May 2018](./meetup_2018_05_17)
+- [3rd PyData Bristol meetup Jul 2018](./meetup_2018_07_19)
+- [4th PyData Bristol meetup Sep 2018](./meetup_2018_09_20)
+- [5th PyData Bristol meetup Nov 2018](./meetup_2018_11_13)
+- [Christmas joint event PyData Bristol and DBBUG meetup Dec 2018](./meetup_2018_12_10)
+- [6th PyData Bristol meetup Jan 2019](./meetup_2019_01_17)
+- [7th PyData Bristol meetup Mar 2019](./meetup_2019_03_20)
+- [8th PyData Bristol meetup May 2019](./meetup_2019_05_15)
+- [9th PyData Bristol meetup Jul 2019](./meetup_2019_07_18)
+- [10th PyData Bristol meetup Sep 2019](./meetup_2019_09)
+- [11th PyData Bristol meetup Oct 2019](./meetup_2019_10)
+- [12th PyData Bristol meetup Nov 2019](./meetup_2019_11)
+- [13th PyData Bristol meetup Dec 2019](./meetup_2019_12)
+- [14th PyData Bristol meetup Jan 2020](./meetup_2020_01)
+- [15th PyData Bristol meetup Feb 2020](./meetup_2020_02)
 
 ## What we are about
 
