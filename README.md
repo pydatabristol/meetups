@@ -24,6 +24,7 @@ You can find schedules, slides and recordings of previous events below.
 - [13th PyData Bristol meetup Dec 2019](./meetup_2019_12)
 - [14th PyData Bristol meetup Jan 2020](./meetup_2020_01)
 - [15th PyData Bristol meetup Feb 2020](./meetup_2020_02)
+- [PyDataUK - May 2020](./meetup_2020_05_05)
 
 ## What we are about
 
