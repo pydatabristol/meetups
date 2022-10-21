@@ -3,7 +3,7 @@
 ## Schedule
 
 <p align="center">
-  <img alt="schedule" src="./images/2022_10_schedule.svg" vspace="20" widht="300"/>
+  <img alt="schedule" src="./images/2022_10_schedule.svg" vspace="20" width="450px"/>
 </p>
 
 ## Slides
