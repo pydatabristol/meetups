@@ -3,7 +3,7 @@
 ## Schedule
 
 <p align="center">
-  <img alt="schedule" src="./images/PyData_Bristol_2018_07_schedule.png" vspace="20" widht="300"/>
+  <img alt="schedule" src="./images/PyData_Bristol_2018_07_schedule.png" vspace="20" width="450"/>
 </p>
 
 ## Slides and recordings
