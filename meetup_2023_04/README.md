@@ -1,4 +1,4 @@
-# PyData Bristol - 17th Meetup
+# PyData Bristol - 22nd Meetup
 
 ## Schedule
 
