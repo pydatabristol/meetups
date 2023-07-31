@@ -1,4 +1,4 @@
-# PyData Bristol - 24nd Meetup
+# PyData Bristol - 24th Meetup
 
 ## Schedule
 
