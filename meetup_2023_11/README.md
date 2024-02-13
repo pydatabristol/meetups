@@ -1,4 +1,4 @@
-# PyData Bristol - 25th Meetup
+# PyData Bristol - 26th Meetup
 
 ## Schedule
 
@@ -11,7 +11,7 @@
 - [Welcome to PyData Bristol][slides:1] by PyData Organisers
 - [Natural Language Processing - from Academic Theory to Business Application][slides:2] by Jerry Panashe Mundondo 
 - [TweetNLP][slides:3] by Asahi Ushio
-- [Polars Intro][slides:3] by Alon Samuel
+- [Polars Intro][slides:4] by Alon Samuel
 
 [slides:1]: ./01_Intro.pdf
 [slides:2]:  ./02_NLP_Academia_to_business.pdf
