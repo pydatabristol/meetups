@@ -8,20 +8,8 @@ Links:
 ## Past meetups
 
 You can find schedules, slides and recordings of previous events below.
-- [1st PyData Bristol meetup March 2018](./meetup_2018_03_15)
-- [2nd PyData Bristol meetup May 2018](./meetup_2018_05_17)
-- [3rd PyData Bristol meetup Jul 2018](./meetup_2018_07_19)
-- [4th PyData Bristol meetup Sep 2018](./meetup_2018_09_20)
-- [5th PyData Bristol meetup Nov 2018](./meetup_2018_11_13)
-- [Christmas joint event PyData Bristol and DBBUG meetup Dec 2018](./meetup_2018_12_10)
-- [6th PyData Bristol meetup Jan 2019](./meetup_2019_01_17)
-- [7th PyData Bristol meetup Mar 2019](./meetup_2019_03_20)
-- [8th PyData Bristol meetup May 2019](./meetup_2019_05_15)
-- [9th PyData Bristol meetup Jul 2019](./meetup_2019_07_18)
-- [10th PyData Bristol meetup Sep 2019](./meetup_2019_09)
-- [11th PyData Bristol meetup Oct 2019](./meetup_2019_10)
-- [12th PyData Bristol meetup Nov 2019](./meetup_2019_11)
-- [13th PyData Bristol meetup Dec 2019](./meetup_2019_12)
+- [2018 meetups](./old_meetups/2018/)
+- [2019 meetups](./old_meetups/2019/)
 - [14th PyData Bristol meetup Jan 2020](./meetup_2020_01)
 - [15th PyData Bristol meetup Feb 2020](./meetup_2020_02)
 - [Joint PyDataUK and 16th PyData Bristol meetup May 2020](./meetup_2020_05_05)
