@@ -9,7 +9,7 @@
 ## Slides
 
 - [Welcome to PyData Bristol](./01_Intro.pdf) by PyData Organisers
-- [LLMs Infiltrating Enterprises](./02_LLMs_Infiltrating_Enterprises) by Manish Sharma
+- [LLMs Infiltrating Enterprises](./02_LLMs_Infiltrating_Enterprises.pdf) by Manish Sharma
 - [Empowering Society with Data Science](./03_Empowering_Society_with_Data_Science.pdf) by David Greenwood
 
 
